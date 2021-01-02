@@ -1,0 +1,2 @@
+class MediaInstallmentMetadata < ApplicationRecord
+end

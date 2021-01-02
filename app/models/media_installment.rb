@@ -1,0 +1,2 @@
+class MediaInstallment < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class MediaLogEntry < ApplicationRecord
+end

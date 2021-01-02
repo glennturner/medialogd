@@ -1,0 +1,2 @@
+class MediaGroup < ApplicationRecord
+end
